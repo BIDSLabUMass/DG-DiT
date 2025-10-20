@@ -24,4 +24,6 @@ If you find our work helpful for your research, please kindly cite our paper.
 
 Biomedical Imaging & Data Science Laboratory
 
-Lab's website: http://www.bidslab.org/index.html Email: tzuansong(at)umass.edu.
+Lab's website: http://www.bidslab.org/index.html 
+
+Email: ziyuanzhou(at)umass.edu, jdutta@umass.edu
