@@ -26,4 +26,4 @@ Biomedical Imaging & Data Science Laboratory
 
 Lab's website: http://www.bidslab.org/index.html 
 
-Email: ziyuanzhou(at)umass.edu, jdutta@umass.edu
+Email: ziyuanzhou(at)umass.edu, jdutta(at)umass.edu
