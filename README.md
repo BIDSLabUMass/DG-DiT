@@ -16,6 +16,7 @@ Abstract——Diffusion probabilistic models (DPMs) have been demonstrated to be
 Alzheimer’s Disease Neuroimaging Initiative (ADNI) (Clinical Database): http://adni.loni.usc.edu/
 
 ## Citation
+Z. Zhou, F. Yang, T. -A. Song, B. Lei, Y. Zhang and J. Dutta, "DG-DiT: Dual-Branch Gating Diffusion Transformer for Multi-Tracer and Multi-Scanner Brain PET Image Denoising," in IEEE Transactions on Radiation and Plasma Medical Sciences, doi: 10.1109/TRPMS.2025.3630161
 
 ## Condition of Use
 If you find our work helpful for your research, please kindly cite our paper.
